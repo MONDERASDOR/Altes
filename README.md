@@ -230,3 +230,16 @@ MIT License - Feel free to use and modify!
 
 ---
 Made by LqauzDev| Monderasdor
+
+# My GitHub Contributions
+
+# Contributors
+
+Thanks to all the people who have contributed to this project!
+
+<!-- Contributors List -->
+<a href="https://github.com/MONDERASDOR/Altes/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=MONDERASDOR/Altes" />
+</a>
+
+
