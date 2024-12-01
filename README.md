@@ -229,4 +229,4 @@ node node.js
 MIT License - Feel free to use and modify!
 
 ---
-Made by monderinatAi | Monderasdor
+Made by LqauzDev| Monderasdor
