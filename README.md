@@ -231,9 +231,23 @@ MIT License - Feel free to use and modify!
 ---
 Made by LqauzDev| Monderasdor
 
-# My GitHub Contributions
+# Contributor's 
 
-[LqauzDev](https://github.com/LqauzDev)
+Thanks to our contributor's!
+
+<div style="display: flex; align-items: center; margin: 10px;">
+
+  <a href="https://github.com/LqauzDev" style="margin-right: 10px;">
+    <img src="https://github.com/LqauzDev.png" alt="Contributor Name" width="100" height="100" style="border-radius: 50%;" />
+  </a>
+  
+  <div>
+    <h4>LqauzDev</h4>
+    <p>GitHub: <a href="https://github.com/LqauzDev">LqauzDev</a></p>
+  </div>
+  
+</div>
+
    
 
 
