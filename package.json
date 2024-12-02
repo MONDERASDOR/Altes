@@ -1,0 +1,26 @@
+{
+  "name": "Altes",
+  "version": "1.34.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node node.js",
+    "dev": "nodemon node.js",
+    "bot": "node node.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "LqauzDev",
+  "license": "MIT",
+  "description": "The best Minecraft Gemii google Ai Agent",
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "mineflayer": "^4.23.0",
+    "mineflayer-pathfinder": "^2.4.5",
+    "prismarine-viewer": "^1.28.0",
+    "socket.io": "^4.8.1",
+    "vec3": "^0.1.10"
+  }
+}
