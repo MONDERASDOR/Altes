@@ -2,13 +2,6 @@
 
 A powerful Minecraft bot powered by Gemini AI that understands natural language and helps with Minecraft tasks..
 
-how it works with just a simple poor Gemini 💩 ?
-
-and how can it be so smart when using Gemini 1.O i mean its TRASH right 🗑️ ?
-
-
-WRONG
-
 so see the ai agent does make gemini smarter by giving him a  very advanced prompt with the data that needed for Gemini to understand Minecraft Enough. in the future we will add a dataset that make Gemini the most advanced Minecraft agent ever 
 
 ## Quick Start
